@@ -1,6 +1,6 @@
 # Heat Sensor Dash App
 
-I created this Dash app visualization dashboard created as part of a course project during the Spring 2024 term.
+I created this Dash app visualization dashboard as part of a course project during the Spring 2024 term.
 
 The project stakeholders were a PhD student and his advisor at Indiana University Bloomington's Informatics Department. Our project sponsors installed heat sensor throughout the Bloomington campus, which measure temperature, relative humidity, and dew point. The "urban heat island" effect is a phenomenon where urban areas experience significantly warmer temperatures than their rural counterparts, so, with the help of these sensors, the sponsors are interested in understanding the impact of heat in urban spaces. The sensors were placed in locations of varying exposure to radiation; e.g., a shaded area by a river, an open parking lot, a field, etc.
 
