@@ -8,7 +8,7 @@ There were a few project objectives; among them was to enhance an existing dashb
 
 - Interactivity between the map and the time series chart so that if the user clicks on a sensor location (or multiple locations), the time series chart will plot only the selected sensor’s data points.
 - Interactivity works smoothly with different parameter inputs.
-- A color schema to the sensor map points based on their temperatures averaged over selected date range.
+- A color schema to the sensor map points based on their temperatures averaged over the selected date range.
 - More aggregate metrics. Previously, there were only weekly, daily, and hourly averages in addition to the raw 5-min sensor readings. I added 12-hr, 6-hr, 3-hr, and 3-hr averages.
 - An option to view rolling averages (window of 4 units).
 
