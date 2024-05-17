@@ -71,7 +71,7 @@ sensor_subset_as_options = sensor_subset.to_dict('records')
 
 
 app = dash.Dash(__name__)
-app = app.server
+server = app.server
 
 
 @app.callback(
