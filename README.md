@@ -14,4 +14,4 @@ There were a few project objectives; among them was to enhance an existing dashb
 
 This GitHub repo contains my code for this dashboard, which can be viewed [here](https://heat-sensor-dash-app.onrender.com), deployed via Render.
 
-Due to GitHub's limited file upload size, the sensor data uploaded to this repo is a snippet of the actual dataset that I worked with. The truncated data contains readings from May - Sep. of 2023.
+Due to GitHub's limited file upload size, the sensor data uploaded to this repo is a snippet of the actual dataset that I worked with. The truncated data contains readings from May - Sep. of 2023. Despite the smaller data size, **some changes to the dashboard's inputs may take a minute or two update the time series chart, particularly the aggregates that are more granular than the daily average.**
