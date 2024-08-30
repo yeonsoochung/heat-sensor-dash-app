@@ -2,6 +2,10 @@
 
 I created this Dash app visualization dashboard as part of a course project during the Spring 2024 term.
 
+This GitHub repo contains my code for this dashboard, which can be viewed in the link below, deployed via Render. It may take 1-2 minutes for the dashboard to initialize, and certain parameter changes  may take aabout 30 seconds to update it, particularly when changing the time-level aggregate to something more granular than "Daily Average."
+
+Link: https://heat-sensor-dash-app.onrender.com
+
 The project stakeholders were a PhD student and his advisor at Indiana University Bloomington's Informatics Department. Our project sponsors installed heat sensors throughout the Bloomington campus, which measure temperature, relative humidity, and dew point. The "urban heat island" effect is a phenomenon where urban areas experience significantly warmer temperatures than their rural counterparts, so, with the help of these sensors, the sponsors are interested in understanding the impact of heat in urban spaces. The sensors were placed in locations of varying exposure to radiation; e.g., a shaded area by a river, an open parking lot, a field, etc.
 
 There were a few project objectives; among them was to enhance an existing dashboard with interactive features. This was my focus. Through this project, I learned how to create visualizations with Python's Plotly and Dash libraries. Per the sponsors' requests, I implemented the following features:
