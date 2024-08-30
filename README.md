@@ -16,6 +16,4 @@ There were a few project objectives; among them was to enhance an existing dashb
 - More aggregate metrics. Previously, there were only weekly, daily, and hourly averages in addition to the raw 5-min sensor readings. I added 12-hr, 6-hr, 3-hr, and 3-hr averages.
 - An option to view rolling averages (window of 4 units).
 
-This GitHub repo contains my code for this dashboard, which can be viewed [here](https://heat-sensor-dash-app.onrender.com), deployed via Render.
-
-Due to GitHub's limited file upload size, the sensor data uploaded to this repo is a snippet of the actual dataset that I worked with. The truncated data contains readings from May - Sep. of 2023. Despite the smaller data size, **some changes to the dashboard's inputs may take a minute or two to update the time series chart, particularly the aggregates that are more granular than the daily average.**
+Due to GitHub's limited file upload size, the sensor data uploaded to this repo is a snippet of the actual dataset that I worked with. The truncated data contains readings from May - Sep. of 2023.
