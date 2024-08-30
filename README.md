@@ -2,7 +2,7 @@
 
 I created this Dash app visualization dashboard as part of a course project during the Spring 2024 term.
 
-This GitHub repo contains my code for this dashboard, which can be viewed in the link below, deployed via Render. It may take 1-2 minutes for the dashboard to initialize, and certain parameter changes  may take aabout 30 seconds to update it, particularly when changing the time-level aggregate to something more granular than "Daily Average."
+This GitHub repo contains my code for this dashboard, which can be viewed in the link below, deployed via Render. It may take 1-2 minutes for the dashboard to initialize, and certain parameter changes may take up to 30 seconds to update it, particularly when changing the time-level aggregate to something more granular than "Daily Average."
 
 Link: https://heat-sensor-dash-app.onrender.com
 
