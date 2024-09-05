@@ -11,8 +11,8 @@ The project stakeholders were a PhD student and his advisor at Indiana Universit
 There were a few project objectives; among them was to enhance an existing dashboard with interactive features. This was my focus. Through this project, I learned how to create visualizations with Python's Plotly and Dash libraries. Per the sponsors' requests, I implemented the following features:
 
 - Interactivity between the map and the time series chart so that if the user clicks on a sensor location (or multiple locations), the time series chart will plot only the selected sensor’s data points.
-- Interactivity works smoothly with different parameter inputs.
-- A color schema to the sensor map points based on their temperatures averaged over the selected date range.
+- Interactivity works smoothly when changing parameter inputs.
+- Added a color schema to the sensor map points based on their temperatures averaged over the selected date range.
 - More aggregate metrics. Previously, there were only weekly, daily, and hourly averages in addition to the raw 5-min sensor readings. I added 12-hr, 6-hr, 3-hr, and 3-hr averages.
 - An option to view rolling averages (window of 4 units).
 
